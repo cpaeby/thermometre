@@ -29,26 +29,26 @@ L'envoi du rapport se fait soit par e-mail de manière régulière, soit par tel
 
 
 
-#Labbook
-##Timeline
+# Labbook
+## Timeline
 2017-05-21 Début du projet et recherche d'informations sur R, le programme avec lequel j'ai le moins d'informations et d'expériences pour le moment. J'ai trouvé des informations sur [Coursera](https://www.coursera.org/learn/data-scientists-tools/) qui sont à mon avis des outils que je n'ai pas encore, je suis donc en train de commencer cette formation. 
 
 2017-06-01 Création du projet GitHub pour faire les choses comme il faut :-)
 
-##Mesure
-###2017-05-21 Un tutoriel est disponible par l'université de Cambridge https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/
+## Mesure
+### 2017-05-21 Un tutoriel est disponible par l'université de Cambridge https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/
 
-##Connection avec le Raspberry Pi
-###2017-05-21 Un tutoriel est disponible par l'université de Cambridge https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/
+## Connection avec le Raspberry Pi
+### 2017-05-21 Un tutoriel est disponible par l'université de Cambridge https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/
 
-##Enregistrement des données
-###2017-05-21 Un tutoriel est disponible par l'université de Cambridge https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/
+## Enregistrement des données
+### 2017-05-21 Un tutoriel est disponible par l'université de Cambridge https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/
 
-##Création des graphiques
-###2017-05-21 Renseignement sur R et comment former un graphique 
+## Création des graphiques
+### 2017-05-21 Renseignement sur R et comment former un graphique 
 
-##Gestion des températures hors range
+## Gestion des températures hors range
 
-##Création du rapport
+## Création du rapport
 
-##Communication du rapport
+## Communication du rapport
